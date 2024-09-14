@@ -1,0 +1,159 @@
+{
+    "notiGroup": true,
+    "iconUnsend": {
+        "status": false,
+        "icon": "❤️"
+    },
+    "NOTIFICATION": true,
+    "language": "en",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminOnly": false,
+    "encryptSt": false,
+    "UPTIME": 1476564.7540581778,
+    "leave": {
+        "status": true,
+        "number": 10
+    },
+    "DASHBOARD": false,
+    "commandDisabled": [
+        ""
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "ACCESSTOKEN": "",
+    "BOTNAME": "𝘽𝙊𝙏",
+    "PREFIX": "+",
+    "ADMINBOT": [
+        "100058415170590"
+    ],
+    "NDH": [],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "DESIGN": {
+        "BOT": "Niiozic Karvariyak - Warthog",
+        "Title": "V3.5-mod",
+        "Theme": "communism",
+        "Admin": "Heo Rừng/Lê Bá Bách",
+        "Setup": {
+            "BOT": "Tên bot thế thôi",
+            "Theme": "Mày có thể dùng các Theme như: Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "NPM_FCA": "fb-chat-support",
+    "SETUP_WIN": {
+        "port": 8888,
+        "use": "Nếu chạy nhiều hơn 1 file trên win thì thay đổi số này ở file thứ 2, 3, 4..."
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "version": "3.5.0",
+    "bot": {
+        "APIKEY": "LUVMIN"
+    },
+    "daily": {
+        "cooldownTime": 8640000000,
+        "rewardCoin": 2000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBZosAoab1UH8ze1zFegz6wnppkf-quu7c"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "start": 0,
+    "key": "W88VdgrU",
+    "cave": {
+        "cooldownTime": 60
+    },
+    "cavev2": {
+        "cooldownTime": 1200000
+    },
+    "checktt": {
+        "maxColumn": 10
+    },
+    "fishing": {
+        "APIKEY": ""
+    },
+    "gamelq": {
+        "cooldownTime": 60
+    },
+    "hamster": {
+        "cooldownTime": 60
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "lixi": {
+        "cooldownTime": 1200000
+    },
+    "lq1": {
+        "fb_token": "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "minecraft": {
+        "HYPIXEL_API": "2aaba24d-7fb5-4003-8bfb-d8458a9499a1"
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 20
+    },
+    "sub1": {
+        "cooldownTime": 60000
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "xedua": {
+        "key": "cuongngu"
+    }
+}

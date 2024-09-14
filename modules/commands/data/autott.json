@@ -1,0 +1,35 @@
+{
+  "comment": {
+    "user": {
+      "data": [],
+      "on": true,
+      "text": [
+        "Tt cùng mình nhé 🐧 (bot)"
+      ]
+    },
+    "group": {
+      "data": [],
+      "on": false,
+      "text": []
+    }
+  },
+  "reaction": {
+    "user": {
+      "data": [],
+      "on": false,
+      "reaction": []
+    },
+    "group": {
+      "data": [],
+      "on": false,
+      "reaction": []
+    }
+  },
+  "createPost": {
+    "on": false,
+    "type": "",
+    "time": "",
+    "text": [],
+    "image": []
+  }
+}
